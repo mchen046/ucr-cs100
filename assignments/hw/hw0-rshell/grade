@@ -1,4 +1,4 @@
-70707070707070/ 100
+70/ 100
 
   -10: no error checking for syscalls (-5 for each syscall, run checksyscalls.sh script in gitlearn/scripts to see detailed output - it takes c++ source files as arguments)
   
